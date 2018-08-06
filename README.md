@@ -7,6 +7,7 @@ Clone the repository to your local machine. Will need Python 3 for this code to 
 ### Usage
 Run the script whenever you would like to scrape the dining services website.  
 ```
+pip install -r requirements.txt
 cd ru-dh-scraper // or whatever directory scraper.py is in
 python scraper.py
 ```
