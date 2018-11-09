@@ -1,0 +1,93 @@
+[10:47:53.719] STATUS: Scraping foods for meal: Breakfast
+[10:47:53.823] STATUS: Scraping foods for meal: Breakfast
+[10:47:53.964] STATUS: Scraping foods for meal: Breakfast
+[10:47:54.090] STATUS: Scraping foods for meal: Breakfast
+[10:47:54.194] WARNING: No information available for item: CHICKEN SAUSAGE PATTY
+[10:47:55.719] STATUS: Scraped foods for meal: Breakfast on campus: Neilson Dining Hall
+[10:47:55.945] STATUS: Scraping foods for meal: Lunch
+[10:47:56.858] WARNING: No information available for item: RASPBERRY BUNS
+[10:47:56.883] WARNING: No information available for item: RASPBERRY BUNS
+[10:47:57.042] STATUS: Scraped foods for meal: Breakfast on campus: Brower Commons
+[10:47:57.442] STATUS: Scraping foods for meal: Lunch
+[10:47:57.633] WARNING: No information available for item: RASPBERRY BUNS
+[10:47:58.109] STATUS: Scraped foods for meal: Breakfast on campus: Busch Dining Hall
+[10:47:58.468] STATUS: Scraping foods for meal: Lunch
+[10:48:00.807] STATUS: Scraped foods for meal: Breakfast on campus: Livingston Dining Commons
+[10:48:01.158] STATUS: Scraping foods for meal: Lunch
+[10:48:01.798] WARNING: No information available for item: DELI MEAT
+[10:48:07.649] STATUS: Scraped foods for meal: Lunch on campus: Neilson Dining Hall
+[10:48:07.910] STATUS: Scraping foods for meal: Dinner
+[10:48:08.797] STATUS: Scraped foods for meal: Lunch on campus: Brower Commons
+[10:48:09.054] STATUS: Scraping foods for meal: Dinner
+[10:48:09.641] STATUS: Scraped foods for meal: Lunch on campus: Busch Dining Hall
+[10:48:10.108] STATUS: Scraping foods for meal: Dinner
+[10:48:10.503] STATUS: Scraped foods for meal: Lunch on campus: Livingston Dining Commons
+[10:48:10.813] STATUS: Scraping foods for meal: Dinner
+[10:48:11.418] WARNING: No information available for item: GUAVA EMPANADA
+[10:48:11.808] WARNING: No information available for item: GARLIC & HERB DINNER ROLL
+[10:48:11.810] STATUS: Scraped foods for meal: Dinner on campus: Brower Commons
+[10:48:11.811] SUCCESS: Scraped Meals for Campus: Brower Commons
+[10:48:11.825] SUCCESS: Dumped meals to brower_commons.json
+[10:48:11.913] WARNING: No information available for item: GUAVA EMPANADA
+[10:48:12.036] WARNING: No information available for item: GARLIC & HERB DINNER ROLL
+[10:48:12.803] WARNING: No information available for item: DELI MEAT
+[10:48:13.367] STATUS: Scraped foods for meal: Dinner on campus: Neilson Dining Hall
+[10:48:13.368] SUCCESS: Scraped Meals for Campus: Neilson Dining Hall
+[10:48:13.375] SUCCESS: Dumped meals to neilson_dining_hall.json
+[10:48:14.068] WARNING: No information available for item: GARLIC & HERB DINNER ROLL
+[10:48:15.195] STATUS: Scraped foods for meal: Dinner on campus: Livingston Dining Commons
+[10:48:15.196] SUCCESS: Scraped Meals for Campus: Livingston Dining Commons
+[10:48:15.205] SUCCESS: Dumped meals to livingston_dining_commons.json
+[10:48:15.239] WARNING: No information available for item: GUAVA EMPANADA
+[10:48:15.453] WARNING: No information available for item: GARLIC & HERB DINNER ROLL
+[10:48:18.158] STATUS: Scraped foods for meal: Dinner on campus: Busch Dining Hall
+[10:48:18.159] SUCCESS: Scraped Meals for Campus: Busch Dining Hall
+[10:48:18.171] SUCCESS: Dumped meals to busch_dining_hall.json
+[14:10:56.576] STATUS: Scraping foods for meal: Breakfast
+[14:10:56.737] STATUS: Scraping foods for meal: Breakfast
+[14:10:56.933] STATUS: Scraping foods for meal: Breakfast
+[14:10:57.250] STATUS: Scraping foods for meal: Breakfast
+[14:10:57.320] WARNING: No information available for item: CHICKEN SAUSAGE PATTY
+[14:11:01.323] STATUS: Scraped foods for meal: Breakfast on campus: Neilson Dining Hall
+[14:11:01.684] STATUS: Scraping foods for meal: Lunch
+[14:11:02.539] STATUS: Scraped foods for meal: Breakfast on campus: Brower Commons
+[14:11:03.151] STATUS: Scraping foods for meal: Lunch
+[14:11:03.355] STATUS: Scraped foods for meal: Breakfast on campus: Busch Dining Hall
+[14:11:03.796] STATUS: Scraping foods for meal: Lunch
+[14:11:10.824] WARNING: No information available for item: ZUCCHINI CHOCOLATE CHIP COOKIE
+[14:11:11.051] WARNING: No information available for item: DELI MEAT
+[14:11:12.032] STATUS: Scraped foods for meal: Breakfast on campus: Livingston Dining Commons
+[14:11:12.210] WARNING: No information available for item: ZUCCHINI CHOCOLATE CHIP COOKIE
+[14:11:12.771] STATUS: Scraping foods for meal: Lunch
+[14:11:14.916] STATUS: Scraped foods for meal: Lunch on campus: Neilson Dining Hall
+[14:11:15.344] STATUS: Scraping foods for meal: Dinner
+[14:11:16.218] WARNING: No information available for item: ZUCCHINI CHOCOLATE CHIP COOKIE
+[14:11:17.040] WARNING: No information available for item: ZUCCHINI CHOCOLATE CHIP COOKIE
+[14:11:23.711] WARNING: No information available for item: DELI MEAT
+[14:11:28.248] WARNING: No information available for item: PINEAPPLE CHEESE STRUDEL
+[14:11:28.610] WARNING: No information available for item: WHOLE GRAIN CRAN WALNUT DINNER ROLL
+[14:11:28.776] STATUS: Scraped foods for meal: Lunch on campus: Brower Commons
+[14:11:29.152] STATUS: Scraping foods for meal: Dinner
+[14:11:31.111] STATUS: Scraped foods for meal: Lunch on campus: Busch Dining Hall
+[14:11:31.997] STATUS: Scraping foods for meal: Dinner
+[14:11:35.450] STATUS: Scraped foods for meal: Dinner on campus: Neilson Dining Hall
+[14:11:35.460] SUCCESS: Scraped Meals for Campus: Neilson Dining Hall
+[14:11:35.472] SUCCESS: Dumped meals to neilson_dining_hall.json
+[14:11:37.349] WARNING: No information available for item: PINEAPPLE CHEESE STRUDEL
+[14:11:37.772] STATUS: Scraped foods for meal: Lunch on campus: Livingston Dining Commons
+[14:11:37.818] WARNING: No information available for item: WHOLE GRAIN CRAN WALNUT DINNER ROLL
+[14:11:37.822] STATUS: Scraped foods for meal: Dinner on campus: Brower Commons
+[14:11:37.825] SUCCESS: Scraped Meals for Campus: Brower Commons
+[14:11:37.853] SUCCESS: Dumped meals to brower_commons.json
+[14:11:38.196] STATUS: Scraping foods for meal: Dinner
+[14:11:39.552] WARNING: No information available for item: DELI MEAT
+[14:11:42.284] WARNING: No information available for item: PINEAPPLE CHEESE STRUDEL
+[14:11:42.709] WARNING: No information available for item: WHOLE GRAIN CRAN WALNUT DINNER ROLL
+[14:11:43.625] WARNING: No information available for item: PINEAPPLE CHEESE STRUDEL
+[14:11:44.111] WARNING: No information available for item: WHOLE GRAIN CRAN WALNUT DINNER ROLL
+[14:11:46.762] STATUS: Scraped foods for meal: Dinner on campus: Busch Dining Hall
+[14:11:46.765] SUCCESS: Scraped Meals for Campus: Busch Dining Hall
+[14:11:46.792] SUCCESS: Dumped meals to busch_dining_hall.json
+[14:11:47.191] STATUS: Scraped foods for meal: Dinner on campus: Livingston Dining Commons
+[14:11:47.192] SUCCESS: Scraped Meals for Campus: Livingston Dining Commons
+[14:11:47.209] SUCCESS: Dumped meals to livingston_dining_commons.json
