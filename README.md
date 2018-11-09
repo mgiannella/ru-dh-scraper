@@ -7,8 +7,8 @@ Clone the repository to your local machine. Will need Python 3 for this code to 
 ### Usage
 Run the script whenever you would like to scrape the dining services website.  
 ```
-pip install -r requirements.txt
 cd ru-dh-scraper // or whatever directory scraper.py is in
+pip install -r requirements.txt
 python scraper.py
 ```
 It will download all of the foods in neatly organized json files.  (Examples of those files from my testing during Summer 2018 are included in the repository) The script will log by default into a file called log.txt in the ru-dh-scraper folder. 
