@@ -2,13 +2,13 @@
 # https://github.com/damnever/pigar
 
 # scraper.py: 3
-bs4 == 0.0.1
+bs4>=0.0.1
 
 # utils.py: 2
-colorama == 0.3.9
+colorama>=0.3.9
 
 # scraper.py: 2
-requests == 2.18.4
+requests>=2.20.0
 
 # scraper.py: 1
-utils == 0.9.0
+utils>=0.9.0
